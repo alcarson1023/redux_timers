@@ -1,3 +1,6 @@
+// USING CLASS SYNTAX IN THIS ONE!
+
+
 import logo from './logo.svg';
 import './App.css';
 
